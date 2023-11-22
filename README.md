@@ -12,8 +12,6 @@
 
 ###
 
-###
-
 <h1 align="center">hey there, i'm daniel👋</h1>
 
 ###
