@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a passionate front-end web developer from Philippines<br>
+<p align="left">I'm a passionate web developer from Philippines<br>
   <br>- 📚 I'm currently learning in depth React for my front end framework and PHP for my back end language
   <br>- ⚡ In my free time I try to code some web challenges in Frontend Mentor and reading some tech stuff
   <br>- 📚 Right now my goal is to learn and master React and PHP but i'm still trying to learn new things along the way
