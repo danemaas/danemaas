@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danemaas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danemaas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&border_color=cyan&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
